@@ -1,0 +1,15 @@
+
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.example.vimeocourse",
+        "sha256_cert_fingerprints": [
+          "C3:D1:86:7C:AA:B0:D1:A6:61:DA:44:6A:A4:19:17:08:88:58:BE:D9:C4:CD:AF:37:4F:BA:D8:45:AB:B3:BD:CC"
+        ]
+      }
+    }
+  ]
